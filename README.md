@@ -1,4 +1,4 @@
 # Html-Portfolio
 Portfolio project
 <br>
-author-Deepak
+author-Deepak Chhetry
